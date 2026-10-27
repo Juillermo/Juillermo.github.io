@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: about
 permalink: /
 subtitle: <a href='https://www.cwi.nl/en/people/guillermo-romero-moreno/'>Centrum Wiskunde & Informatica</a>, Netherlands.
 

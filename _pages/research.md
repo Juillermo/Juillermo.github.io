@@ -84,7 +84,7 @@ otherwise not be reached ([ABMHuB 2021](https://eprints.soton.ac.uk/449484/)).
 am interested in models grounded in cognitive science, where beliefs are not isolated but form **structured systems**. 
 We have analysed a cognitive model of structured beliefs to identify which conditions lead to consensus or polarisation 
 ([WIVACE 2024](https://doi.org/10.1007/978-3-031-93631-9_3)) and how cognitive coherence and social influence together 
-can drive national-level polarisation across Europe.
+can drive national-level polarisation across Europe ([SimPol](http://arxiv.org/abs/2606.27968)).
 - **Ongoing work** includes measuring elite polarisation in Argentina through legislative co-sponsorship networks and
 understanding how private messages may mitigate the polarising dynamics of young users on TikTok.
 
@@ -118,3 +118,36 @@ nearly two million times in the 2019 Spanish general elections.
 **Interpretability of machine learning.** Deep learning models are often black boxes to the scientists who use them. I 
 applied **saliency maps** to convolutional neural networks for protein secondary structure prediction, to understand 
 which parts of the input drive their predictions ([ICASSP 2019](https://doi.org/10.1109/ICASSP.2019.8683603)).
+
+---
+
+# Research values
+
+- **Research happens within teams and communities.** Peer support, shared resources and efforts, mutual learning, and 
+the exchange of ideas are fundamental for breakthrough research, especially when they bring together diverse points of 
+view and disciplines (see [interdisciplinarity](/interdisciplinarity/)).
+- **Quality over quantity.** In an era of over-abundance of publications and noise, the quality of research matters 
+more than its volume. The "publish or perish" culture drives anxiety and dishonesty and weakens public trust in 
+science; I believe incentives should instead value honesty, replication, and negative results.
+- **Reproducibility and transparency.** Methodological details and assumptions should be made explicit, and code should 
+be openly available so that others can verify, reuse, and build on the work (e.g., the [ABC Python package](https://github.com/Juillermo/ABC)
+or our transparent pipeline for [multimorbidity clustering](https://www.medrxiv.org/content/10.64898/2026.05.25.26353178v1)).
+- **Meaningful science.** I value pursuing honest research that seeks to advance science and have real impact, rather 
+than merely optimising external academic incentives.
+- **Science for democratic societies.** Higher education and research provide fundamental benefits to society, from 
+solid evidence for decision and policy making to the advancement of knowledge for everyone. This comes with the 
+responsibility of disseminating research in language and formats that reach the wider public, engaging civil society 
+and other stakeholders in the research process, and building trust in science. At a time when disinformation and 
+political polarisation threaten democratic values, science can serve as a consensus-enhancing platform, which is also 
+a core motivation behind my own research.
+- **Academic freedom and integrity.** Research, teaching, and dissemination should not be driven by outside agendas. 
+Protecting academic freedom, institutional autonomy, and research integrity is both a personal and a collective 
+responsibility of the academic community.
+
+Beyond research itself, I believe that **people come first**: researchers' own trajectories, limits, and boundaries are 
+more important than their output. Read more about this on my [leadership](/leadership/) page.
+
+Some of these values were shaped by my participation in the [Eurodoc Ambassador Programme for Values and Democracy in 
+European Research and Higher Education (ValDem)](https://eurodoc.net/news/2025/valdem-registration) in 2025, which 
+explored the role that higher education and research play in European democracies and how to advocate for their 
+fundamental values within our institutions and communities.
